@@ -16,7 +16,7 @@ export default function Inicio() {
             <div className="treinos">
                 <div className="texto">
                     <Link to={"/Exercicio-1"}>
-                    <Card  cores = 'laranja' titulo="Cupom de desconto" subtitulo="Exercicio 01"/>
+                    <Card  cores = 'yellow' titulo="Cupom de desconto" subtitulo="Exercicio 01"/>
                     </Link>
                 </div>
 
